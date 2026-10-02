@@ -4,8 +4,8 @@
 
 **Integrantes:**
 
-* Laura Valeria de la Luz Hernandez
-* Leondel de la Luz Hernandez
+* Laura Valeria De La Luz Hernandez
+* Leonel De La Luz Hernandez
 * Marco Salazar Sanchez
 * Monica Vianey Valle Lucio
 
