@@ -25,6 +25,33 @@ La infraestructura simulada se estructuró con base en la topología desarrollad
 |     S1      | Switch |  10.1.1.3    | Activo | Conectividad |
 
 ## 4. Evidencias
+### *1. Estructura del repositorio*
+![Estructura del repositorio](evidencias/01-estructura-repositorio.png)
+
+### *2. Código fuente de dispositivos*
+![Codigo fuente](evidencias/2.Codigo%20fuente%20dispositivos.py.png)
+
+### *3. Ejecución del programa*
+![Ejecucion del programa](evidencias/3.Evidencia%20de%20ejecucion%20del%20programa.png)
+
+### *4. Representación de los dispositivos*
+![Representacion de los dispositivos](evidencias/4.Representación%20de%20los%20dispositivos%20de%20la%20Practica%202.png)
+
+### *5. Uso de listas y diccionarios*
+![Listas y diccionarios 1](evidencias/5.Uso%20de%20listas%20y%20diccionarios(1).png)
+![Listas y diccionarios 2](evidencias/5.Uso%20de%20listas%20y%20diccionarios(2).png)
+
+### *6. Uso de ciclos y estructuras condicionales*
+![Ciclos y condicionales 1](evidencias/6.Uso%20de%20ciclos%20y%20estructuras%20condicionales(1).png)
+![Ciclos y condicionales 2](evidencias/6.Uso%20de%20ciclos%20y%20estructuras%20condicionales(2).png)
+
+### *7. Uso de una función*
+![Función 1](evidencias/7.Uso%20de%20una%20función(1).png)
+![Función 2](evidencias/7.Uso%20de%20una%20función(2).png)
+
+### *8. Reto Final*
+![Reto Final 1](evidencias/8.Reto%20final(1).png)
+![Reto Final 2](evidencias/8.Reto%20final(2).png)
 
 ## 5. Problemas y soluciones
 
