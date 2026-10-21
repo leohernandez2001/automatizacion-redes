@@ -1,3 +1,11 @@
+### Espacios de colaboracion
+---
+| Recurso o comunidad | Tipo de recurso  | ¿Qué tipo de problemas ayuda a resolver?  | ¿Cómo podría utilizarlo el equipo? |
+|-------------|-------|--------------|--------|
+|     Stack Overflow en español     |  |    |  |
+|     GitHub     |  |    |  | 
+|     Comunidad de GNS3     |  |    |  | 
+---
 ### Comunidades consultadas y recomendaciones
 
 Las comunidades de programación permiten compartir dudas, consultar experiencias y encontrar posibles soluciones a problemas técnicos.
