@@ -6,11 +6,12 @@
 |     GitHub     |  |    |  | 
 |     Comunidad de GNS3     |  |    |  | 
 ---
-### Comunidades consultadas y recomendaciones
+* **1. ¿Qué ventajas ofrece una comunidad de colaboración frente a buscar información sin un objetivo definido?**
 
-Las comunidades de programación permiten compartir dudas, consultar experiencias y encontrar posibles soluciones a problemas técnicos.
+* **2. ¿Por qué conviene revisar si una pregunta similar ya fue respondida?**
 
-- [Stack Overflow](https://stackoverflow.com/)
-- [Comunidad de GitHub](https://github.com/community)
+* **3. ¿Qué información debería incluir una pregunta técnica para facilitar que otras personas comprendan el problema?**
 
-Para participar adecuadamente, se recomienda describir el problema con claridad, incluir información relevante, revisar las respuestas existentes y comprobar las soluciones antes de aplicarlas. También es importante mantener una comunicación respetuosa y compartir los resultados obtenidos.
+* **4. ¿Por qué es importante describir lo que ya se intentó y los errores encontrados?**
+
+* **5. ¿Qué comportamiento debe mantener un estudiante al solicitar ayuda o utilizar una solución publicada por otra persona?**
