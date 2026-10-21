@@ -15,3 +15,7 @@
 * **4. ¿Por qué es importante describir lo que ya se intentó y los errores encontrados?**
 
 * **5. ¿Qué comportamiento debe mantener un estudiante al solicitar ayuda o utilizar una solución publicada por otra persona?**
+---
+![](evidencias/Stack%20Overflow.png)
+![](evidencias/GitHub.png)
+![](evidencias/Comunidad%20Oficial%20GNS3.png)
