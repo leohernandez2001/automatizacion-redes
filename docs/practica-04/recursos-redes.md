@@ -39,6 +39,9 @@ Para aprender a configurar las topologías en GNS3, estableciendo conexiones con
 * **Utilidad para el proyecto integrador:** Permite encontrar posibles soluciones a errores que surjan durante las prácticas.
 * **Ejemplo de una situación en la que lo consultarías:** Cuando GNS3 muestre un error al iniciar un dispositivo y necesite encontrar posibles soluciones.
 
+![](evidencias/GNS3.png)
+![](evidencias/Repositorio%20Netmiko.png)
+![](evidencias/Comunidad%20Oficial%20GNS3.png)
 ---
 ### Documentación y recursos de redes
 
