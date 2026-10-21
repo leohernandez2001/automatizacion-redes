@@ -42,14 +42,3 @@ Para aprender a configurar las topologías en GNS3, estableciendo conexiones con
 ![](evidencias/GNS3.png)
 ![](evidencias/Repositorio%20Netmiko.png)
 ![](evidencias/Comunidad%20Oficial%20GNS3.png)
----
-### Documentación y recursos de redes
-
-Los recursos especializados en redes permiten comprender la configuración de dispositivos, la simulación de topologías y los procesos de automatización de infraestructura.
-
-- [GNS3](https://www.gns3.com/)
-- [Documentación de GNS3](https://docs.gns3.com/)
-- [Cisco Networking Academy](https://www.netacad.com/)
-- [Documentación de Git](https://git-scm.com/doc)
-
-Estas fuentes sirven para investigar problemas de configuración, comprender las topologías de red y organizar los cambios realizados durante el proyecto.
