@@ -26,7 +26,7 @@ La documentación oficial ofrece información publicada y mantenida por los resp
 * **Utilidad para el proyecto integrador:** Sirve com base para repasar la sintaxis correcta al contruir scripts de automatización en Python.
 * **Ejemplo de una situación en la que lo consultarías:** Cuando tengamos dudas sobre cómo utilizar alguna instrucción de Python o no recordemos cómo funciona un elemento del lenguaje.
   
-![ ](El_Tutoria_Python.png)
+![ ](El%20Tutoria%20Python.png)
 
 **Recurso 2:** Estructuras de datos
 * **Nombre del recurso:** Estructuras de datos
