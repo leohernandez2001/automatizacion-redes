@@ -1,73 +1,64 @@
-# Práctica 4. Exploración de comunidades, documentación y recursos de colaboración
+# Reporte de Práctica: Fuentes de Información y Colaboración
 
-## Propósito de la práctica
+## 1. Propósito de la práctica
 
-Conocer diferentes fuentes de información que ayuden a resolver problemas de programación e identificar recursos confiables para trabajar de manera más organizada.
+Aprender a buscar información en distintas fuentes para resolver problemas de programación, identificar páginas confiables y usar comunidades de colaboración durante el desarrollo de software.
 
-## Relación con el proyecto integrador
+## 2. Relación con el proyecto integrador
 
-Esta práctica se relaciona con el proyecto integrador porque permite investigar y resolver posibles errores en programas como `dispositivos.py`. También ayuda a mejorar la documentación en GitHub y a compartir información con los integrantes del equipo.
+Esta práctica nos ayuda a investigar errores en los programas, consultar información técnica y compartir soluciones con el equipo. También permite organizar mejor los archivos y registrar el avance en GitHub.
 
-## Recursos consultados: síntesis y enlaces
+## 3. Recursos consultados y comunidades
 
-| Recurso                  | Síntesis                                                        | Enlace                                                                                |
-| ------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Python                   | Explica cómo utilizar el lenguaje y sus funciones.              | [https://docs.python.org/es/3/](https://docs.python.org/es/3/?utm_source=chatgpt.com) |
-| GitHub Docs              | Enseña a organizar repositorios y trabajar en equipo.           | [https://docs.github.com/es](https://docs.github.com/es?utm_source=chatgpt.com)       |
-| Stack Overflow           | Permite consultar dudas y encontrar soluciones de programación. | [https://stackoverflow.com/](https://stackoverflow.com/?utm_source=chatgpt.com)       |
-| Cisco Networking Academy | Ofrece materiales para aprender sobre redes.                    | [https://www.netacad.com/](https://www.netacad.com/?utm_source=chatgpt.com)           |
-| Git                      | Explica cómo llevar un control de los cambios en los archivos.  | [https://git-scm.com/doc](https://git-scm.com/doc?utm_source=chatgpt.com)             |
+| Recurso o comunidad | Tipo de recurso | ¿Qué tipo de problemas ayuda a resolver? | ¿Cómo podría utilizarlo el equipo? | 
+| ----- | ----- | ----- | ----- | 
+| **Stack Overflow en español** | Foro de preguntas y respuestas | Errores de sintaxis, dudas sobre lógica y fallas comunes en Python. | Para buscar errores similares, comparar opciones de solución y resolver dudas del código. | 
+| **GitHub** | Plataforma de desarrollo colaborativo | Problemas al combinar archivos de varios integrantes y desorden en el código. | Para guardar el proyecto, revisar los cambios del equipo y mantener al día la documentación. | 
+| **Comunidad de GNS3** | Foro especializado en simulación | Errores de conexión entre Python y los equipos de red simulados. | Para consultar guías sobre cómo conectar scripts con la topología de red. | 
 
-## Evaluación de confiabilidad
+## 4. Comparativa de calidad de la información (Evaluación de confiabilidad)
 
-| Recurso                  | Característica                                    | Confiabilidad |
-| ------------------------ | ------------------------------------------------- | ------------- |
-| Python                   | Documentación oficial con ejemplos.               | Alta          |
-| GitHub Docs              | Información oficial sobre la plataforma.          | Alta          |
-| Stack Overflow           | Respuestas y experiencias de otros programadores. | Media-alta    |
-| Cisco Networking Academy | Material educativo sobre redes.                   | Alta          |
-| Git                      | Documentación oficial de la herramienta.          | Alta          |
+| Criterio | Recurso 1: Stack Overflow en español | Recurso 2: GitHub (GitHub Docs) | Recurso 3: Comunidad de GNS3 | 
+| ----- | ----- | ----- | ----- | 
+| **¿Quién publica o mantiene el recurso?** | Programadores de la comunidad. | El equipo oficial de GitHub. | Creadores de GNS3 y usuarios del foro. | 
+| **¿La información corresponde al tema investigado?** | Sí, aplica para errores de código y lógica en Python. | Sí, trata sobre el uso de la plataforma y control de versiones. | Sí, se enfoca en redes y simulación con GNS3. | 
+| **¿Incluye ejemplos o instrucciones verificables?** | Sí, muestra fragmentos de código y respuestas explicadas. | Sí, incluye pasos detallados y comandos oficiales. | Sí, ofrece ejemplos de configuración y esquemas. | 
+| **¿Se identifica la versión o fecha de actualización cuando corresponde?** | Sí, en la fecha de publicación y versión de las respuestas. | Sí, el sitio se mantiene actualizado constantemente. | Sí, en la información de las publicaciones del foro. | 
+| **¿Es posible comprobar la información con otra fuente?** | Sí, probando el código o consultando la documentación oficial. | Sí, revisando la documentación general de Git. | Sí, comparando con manuales de red de otros fabricantes. | 
+| **¿Qué utilidad tiene para el proyecto integrador?** | Ayuda a resolver fallas puntuales en las funciones de Python. | Permite trabajar en equipo sin sobreescribir el trabajo de otros. | Sirve para verificar la comunicación del programa con la red. | 
 
-Las fuentes oficiales suelen ser las más confiables porque explican directamente cómo funcionan las herramientas. Las comunidades también son útiles, aunque conviene comprobar las soluciones antes de aplicarlas.
+## 5. Estrategia de solución del problema
 
-## Estrategia de solución del problema
+*Tabla de análisis del problema*
 
-Situación hipotética: El programa `dispositivos.py` muestra la información de R1 y R2, pero no encuentra un dispositivo al buscarlo por su nombre.
+| Elemento | Respuesta del equipo | 
+| ----- | ----- | 
+| **Problema identificado** | El programa muestra R1 y R2, pero no encuentra un dispositivo cuando se busca por su nombre. | 
+| **Palabras clave para realizar la búsqueda** | Python buscar por nombre, comparar cadenas Python, espacios y mayúsculas Python. | 
+| **Documentación o comunidad que consultarían primero** | Documentación oficial de Python y la comunidad de Stack Overflow. | 
+| **Información que revisarían en el código** | El ciclo de búsqueda, la condición `if` y la coincidencia de texto (mayúsculas o espacios). | 
+| **Tipo de ejemplo o solución que buscarían** | Un ejemplo sencillo de búsqueda de texto dentro de una lista o diccionario. | 
+| **Cómo comprobarían que la solución funciona** | Probando con diferentes nombres (con mayúsculas, minúsculas y espacios) y verificando un nombre no existente. | 
+| **Cómo documentarían la solución encontrada** | Anotando en el `README.md` la causa del error, la solución aplicada y las pruebas realizadas. | 
 
-Pasos para investigar el problema:
+## 6. Aprendizajes obtenidos
 
-- Revisar el código para entender cómo funciona la búsqueda.
-- Probar diferentes nombres para identificar cuándo ocurre el error.
-- Consultar la documentación de Python sobre cadenas de texto y condiciones.
-- Buscar problemas similares en comunidades como Stack Overflow.
-- Comparar las posibles soluciones y elegir la más adecuada.
-- Probar los cambios para comprobar que la búsqueda funcione correctamente.
-- Registrar el procedimiento y los resultados en el `README.md` de GitHub.
+* Distinguir entre el uso de documentación oficial y foros de ayuda.
+* Verificar la información encontrada antes de integrarla al proyecto.
+* Seguir un proceso ordenado para analizar y resolver fallas en el código.
+* Explicar los problemas y soluciones de forma clara dentro del equipo.
+* Organizar el trabajo colaborativo utilizando GitHub.
 
-Resultado esperado: Que el programa encuentre los dispositivos registrados y muestre un mensaje cuando el nombre ingresado no exista.
+## 7. Conclusiones individuales
 
-## Aprendizajes obtenidos
+* **Laura Valeria de la Luz Hernández:**
+  Consultar fuentes confiables facilita la resolución de dudas durante la programación. Aunque los foros ayudan a encontrar ejemplos útiles, es indispensable probar cualquier solución antes de aplicarla. Además, llevar un registro claro de las modificaciones en el repositorio ayuda a mantener el orden dentro del equipo.
 
-- Aprender a buscar información técnica en diferentes fuentes.
-- Comprender la importancia de verificar las soluciones antes de utilizarlas.
-- Conocer cómo las comunidades de programación ayudan a resolver dudas.
-- Reforzar el uso de GitHub para documentar el trabajo.
-- Identificar la importancia de investigar antes de modificar un programa.
+* **Leonel de la Luz Hernández:**
+  Cuando surge un problema en el código, resulta conveniente investigar la causa de manera estructurada en lugar de hacer cambios al azar. Evaluar distintas alternativas permite seleccionar la opción más adecuada. Compartir estos hallazgos evita repetir búsquedas y optimiza el trabajo colaborativo.
 
-## Conclusiones individuales
+* **Marco Salazar Sánchez:**
+  Revisar fuentes de información antes de modificar el programa ayuda a prevenir errores adicionales en partes que ya funcionaban. Es importante adaptar las respuestas encontradas a las necesidades del proyecto. Asimismo, documentar los avances en GitHub asegura un mejor control del trabajo realizado.
 
-### Integrante 1
-
-La documentación técnica facilita la comprensión y resolución de problemas durante el desarrollo de software. Consultar fuentes confiables permite encontrar información útil y conocer el funcionamiento de diferentes herramientas. Las comunidades de programación también ayudan a identificar posibles soluciones. Sin embargo, es importante comprobar que la información sea correcta antes de aplicarla. Documentar los cambios permite mantener un registro del trabajo realizado. Además, facilita que otros integrantes comprendan el código. Estos recursos contribuyen a mejorar la organización de los proyectos. Por ello, investigar y documentar es fundamental para desarrollar software de manera eficiente.
-
-### Integrante 2
-
-Las comunidades y la documentación son recursos importantes para el aprendizaje de la programación. A través de ellas es posible resolver dudas, consultar ejemplos y conocer diferentes formas de solucionar un problema. La documentación oficial permite obtener información más precisa sobre las herramientas utilizadas. Por su parte, las comunidades ofrecen experiencias y recomendaciones de otros desarrolladores. Es necesario comparar y verificar la información encontrada antes de utilizarla. También resulta importante registrar las soluciones en el repositorio del proyecto. Esto facilita el trabajo colaborativo y el mantenimiento del código. En conjunto, estos recursos permiten desarrollar proyectos de manera más organizada.
-
-### Integrante 3
-
-La búsqueda de información técnica es una parte importante del desarrollo de software. Contar con fuentes confiables permite identificar errores y encontrar alternativas para resolverlos. Las comunidades de programación complementan la documentación oficial mediante ejemplos y experiencias prácticas. No obstante, las soluciones encontradas deben probarse para comprobar su funcionamiento. La documentación de los procedimientos también ayuda a evitar que se repitan los mismos errores. Además, compartir los conocimientos facilita la colaboración entre los integrantes de un equipo. Estas prácticas mejoran la organización y el seguimiento de los proyectos. Por lo tanto, investigar y documentar contribuye a desarrollar software de mejor calidad.
-
-### Integrante 4
-
-El uso de documentación técnica y comunidades de colaboración facilita el desarrollo y mantenimiento de programas. Estos recursos permiten encontrar información, aclarar dudas y conocer herramientas que pueden ayudar a resolver problemas. Consultar distintas fuentes ayuda a comparar soluciones y seleccionar la más adecuada. También es importante verificar los resultados antes de realizar cambios definitivos. Mantener la documentación actualizada facilita la comprensión del código y de sus modificaciones. Plataformas como GitHub permiten organizar archivos y compartir avances. De esta manera, se mejora la comunicación y el trabajo en equipo. En conclusión, la documentación y la colaboración son fundamentales para desarrollar proyectos de software de forma ordenada y eficiente.
+* **Mónica Vianey Valle Lucio:**
+  Las comunidades de colaboración permiten conocer diferentes formas de resolver una misma dificultad técnica. Por su parte, herramientas como GitHub facilitan la organización del proyecto y la integración del código del equipo. Mantener los cambios documentados favorece un desarrollo más fluido y transparente.
