@@ -39,3 +39,16 @@
 
 ---
 ## Próximo paso - Desarrollar programas que permitan procesar y automatizar información relacionada con la infraestructura de red.
+
+---
+## Práctica 04 – Exploración de comunidades, documentación y recursos de colaboración
+
+**Fecha:** 19 de octubre de 2026  
+**Estado:** Completada.
+
+- Se consultaron recursos técnicos de Python, GitHub y redes para investigar problemas y evaluar fuentes confiables.
+- Se propuso una estrategia de búsqueda para resolver un error hipotético en `dispositivos.py`.
+
+---
+
+## Próximo paso - Continuar desarrollando programas en Python y aplicar los recursos consultados para resolver problemas técnicos.
