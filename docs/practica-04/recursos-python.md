@@ -18,19 +18,19 @@ La documentación oficial ofrece información publicada y mantenida por los resp
 ---
 ### Recursos de Python
 ---
-**Recurso 1:** Documentación Oficial de Python
-* **Nombre del recurso:**
-* **URL:**
-* **Tema que aborda:**
-* **Tipo de información que ofrece:**
-* **Utilidad para el proyecto integrador:**
-* **Ejemplo de una situación en la que lo consultarías:**
+**Recurso 1:** The Python Tutorial
+* **Nombre del recurso:** El tutorial de Python
+* **URL:** https://docs.python.org/3/tutorial/
+* **Tema que aborda:** Conceptos básicos del lenguaje Python (variables, control de flujo, estructuras de datos, funciones y módulos)
+* **Tipo de información que ofrece:** Explicaciones conceptuales, reglas de sintaxis y ejemplos de código interactivo.
+* **Utilidad para el proyecto integrador:** Sirve com base para repasar la sintaxis correcta al contruir scripts de automatización en Python.
+* **Ejemplo de una situación en la que lo consultarías:** Cuando tengamos dudas sobre cómo utilizar alguna instrucción de Python o no recordemos cómo funciona un elemento del lenguaje.
 
-**Recurso 2:** 
-* **Nombre del recurso:**
-* **URL:**
-* **Tema que aborda:**
-* **Tipo de información que ofrece:**
-* **Utilidad para el proyecto integrador:**
-* **Ejemplo de una situación en la que lo consultarías:**
+**Recurso 2:** Estructuras de datos
+* **Nombre del recurso:** Estructuras de datos
+* **URL:** https://docs.python.org/es/3/tutorial/datastructures.html
+* **Tema que aborda:** Uso de listas, tuplas, diccionarios y otras estructuras de datos en Python.
+* **Tipo de información que ofrece:** Explicaciones y ejemplos de cómo almacenar, organizar y manipular datos.
+* **Utilidad para el proyecto integrador:** Permite organizar información de dispositivos de red y acceder a sus datos fácilmente.
+* **Ejemplo de una situación en la que lo consultarías:** Cuando se necesite crear una lista de dispositivos de red y guardar direcciones IP y estados en un diccionario.
   
