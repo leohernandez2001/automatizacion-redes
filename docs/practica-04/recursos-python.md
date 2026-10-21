@@ -37,12 +37,3 @@ La documentación oficial ofrece información publicada y mantenida por los resp
 
 ![](evidencias/El%20Tutorial%20Python.png)
 ![](evidencias/Estructuras%20de%20datos.png)
-
-### Documentación y recursos de Python
-
-La documentación oficial de Python permite consultar las características del lenguaje, sus funciones y ejemplos de uso. Es una fuente útil para resolver dudas y mejorar los programas desarrollados durante las prácticas.
-
-- [Documentación oficial de Python](https://docs.python.org/es/3/)
-- [Tutorial de Python](https://docs.python.org/es/3/tutorial/)
-
-Estos recursos permiten comprender mejor las variables, condiciones, ciclos, funciones y estructuras de datos utilizadas en `dispositivos.py`.
