@@ -52,3 +52,17 @@
 ---
 
 ## Próximo paso - Continuar desarrollando programas en Python y aplicar los recursos consultados para resolver problemas técnicos.
+
+---
+## Práctica 5. Automatización de redes con Python
+
+**Fecha:** 26 de octubre de 2026  
+**Estado:** Completada.
+
+En esta práctica se desarrolló un script en Python para establecer una conexión Telnet con un router en GNS3 y enviar comandos de configuración de manera automatizada. Se configuraron interfaces Loopback y el protocolo OSPF, verificando los cambios realizados en el dispositivo.
+
+Relación con el proyecto integrador:
+
+Esta práctica representa un avance en el desarrollo del proyecto integrador Sistema de automatización y gestión de infraestructura de red, ya que permite pasar de representar la información de los dispositivos mediante Python a interactuar directamente con ellos para enviar configuraciones y comprobar los cambios realizados.
+
+---
