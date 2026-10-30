@@ -54,7 +54,7 @@
 ## Próximo paso - Continuar desarrollando programas en Python y aplicar los recursos consultados para resolver problemas técnicos.
 
 ---
-## Práctica 5. Automatización de redes con Python
+## Práctica 5 - Mi primer script en Python para la automatización de redes.
 
 **Fecha:** 26 de octubre de 2026  
 **Estado:** Completada.
