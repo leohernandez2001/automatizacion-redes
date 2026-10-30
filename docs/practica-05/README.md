@@ -36,9 +36,9 @@ La versión de Python utilizada en el Network Automation Container (NAC) fue Pyt
 
 * *5. Problemas encontrados y soluciones*
 
-  1. Comando ipconfig no reconocido: se utilizó ifconfig para consultar la dirección IP del NAC.
-  2. Problemas iniciales de conectividad: al principio no se obtenía respuesta del router. Se revisó la configuración de red hasta conseguir comunicación entre ambos dispositivos.
-  3. Error al asignar la direccion IP: se presentó un error por escribir incompleta la máscara de subred. Se corrigió al faltar un 255 en la máscara.
+  * Comando ipconfig no reconocido: se utilizó ifconfig para consultar la dirección IP del NAC.
+  * Problemas iniciales de conectividad: al principio no se obtenía respuesta del router. Se revisó la configuración de red hasta conseguir comunicación entre ambos dispositivos.
+  * Error al asignar la direccion IP: se presentó un error por escribir incompleta la máscara de subred. Se corrigió al faltar un 255 en la máscara.
 
 ---
 
